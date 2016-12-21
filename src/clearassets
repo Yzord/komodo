@@ -30,3 +30,14 @@ rm -rf ~/.komodo/THB
 rm -rf ~/.komodo/BGN
 rm -rf ~/.komodo/IDR 
 rm -rf ~/.komodo/HRK
+rm -rf ~/.komodo/BET
+rm -rf ~/.komodo/BOTS
+rm -rf ~/.komodo/CRYPTO
+rm -rf ~/.komodo/DEX
+rm -rf ~/.komodo/HODL
+rm -rf ~/.komodo/JUMBLR
+rm -rf ~/.komodo/MGW
+rm -rf ~/.komodo/PANGEA
+rm -rf ~/.komodo/REVS
+rm -rf ~/.komodo/SHARK
+rm -rf ~/.komodo/SUPERNET
